@@ -63,6 +63,18 @@ body {
 .link{
     text-decoration: none !important;
 }
+
+/*Login*/
+.auth-card{
+    margin-bottom: 2em !important;
+    margin-top: 2em !important;
+}
+.change-form-p{
+    margin-top: 2em !important;
+    text-align: center !important;
+}
+
+
 /* FOOTER */
 footer {
     background-color: rgb(0, 0, 0) !important;
